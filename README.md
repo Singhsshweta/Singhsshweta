@@ -1,18 +1,19 @@
 Hi, I'm Shweta 👋
 
-Machine Learning Engineer with hands-on experience building, fine-tuning, and deploying ML and LLM-based systems.
+Machine Learning Engineer focused on building, fine-tuning, and deploying scalable ML and LLM-based systems for real-world decision-making.
 
  🔹 What I Work On
 - End-to-end machine learning pipelines
 - LLM fine-tuning & prompt engineering
 - AI agents for reasoning & decision-making
 - Model evaluation, optimization & deployment
+- Training workflows, evaluation pipelines & model benchmarking
 
  🔹 Tech Stack
-- Python, PyTorch, TensorFlow
-- Hugging Face Transformers
-- FastAPI, Docker, Kubernetes
-- ML pipelines & MLOps fundamentals
+- Python, PyTorch, TensorFlow  
+- Hugging Face Transformers  
+- FastAPI, Docker, Kubernetes  
+- ML pipelines, evaluation & MLOps fundamentals  
 
  🔹 Featured Projects
 - **AI Smart Scheduler** – AI agent for real-world scheduling optimization  
