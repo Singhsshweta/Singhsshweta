@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Shweta 👋
 
-<!--
-**Singhsshweta/Singhsshweta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer with hands-on experience building, fine-tuning, and deploying ML and LLM-based systems.
 
-Here are some ideas to get you started:
+ 🔹 What I Work On
+- End-to-end machine learning pipelines
+- LLM fine-tuning & prompt engineering
+- AI agents for reasoning & decision-making
+- Model evaluation, optimization & deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔹 Tech Stack
+- Python, PyTorch, TensorFlow
+- Hugging Face Transformers
+- FastAPI, Docker, Kubernetes
+- ML pipelines & MLOps fundamentals
+
+ 🔹 Featured Projects
+- **AI Smart Scheduler** – AI agent for real-world scheduling optimization  
+- **Financial Document QA Assistant** – LLM-powered document reasoning system  
+- **Healthcare ML Models** – Cancer & diabetes prediction using ML & DL
+
+ 🔹 Currently Exploring
+- Reinforcement learning concepts
+- Self-improving AI agents
+- Scalable inference & training workflows
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shweta-singh-238775221)
